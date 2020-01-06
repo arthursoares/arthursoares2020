@@ -4,7 +4,7 @@ import Typography from 'typography'
 // The scaleRatio will be overwritten for smaller breakpoints in src/components/Layout
 
 const typography = new Typography({
-  title: 'Gatsby Starter Prismic.io',
+  title: 'Arthur Soares',
   baseFontSize: '18px',
   baseLineHeight: 1.45,
   headerFontFamily: [
@@ -34,7 +34,7 @@ const typography = new Typography({
     'Segoe UI Symbol',
   ],
   scaleRatio: 3.157,
-  headerWeight: 700,
+  headerWeight: 600,
   overrideStyles: () => ({
     img: {
       marginBottom: 0,
